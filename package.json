@@ -1,0 +1,15 @@
+{
+  "name": "state-capital-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "homepage": "https://freeman2333.github.io/state-search",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "author": "freeman",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
